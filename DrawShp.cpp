@@ -91,10 +91,8 @@ void drawDots()
 
 int main()
 {
-	//drawDots();
-
 	// uncomment the following lines in order to test your program
-
+	//drawDots();
 	//drawRectangles();
 	//drawLines();
 	//drawHome();
