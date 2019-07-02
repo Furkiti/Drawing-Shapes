@@ -24,7 +24,7 @@
 A cartesian coordinate, Point(x,y) can be modified by an amount nusing: right(n), left(n), up(n), down(n). For up() and down() functions, up() sets the point to the upper side of the screen (by reducing the y-coordinate) and down() in the opposite manner. when no argument is passed to these functions, n is 1, i.e. related coordinate is modified only by 1. For example: p.right(); increments the  x coordinate by 1. As a result, these functions return the Point with the new coordinates. 
 
 
-- Testing: 
+Testing: 
 There are 4 sample output text files for us to test your codes at Ubuntu. These text files look in a different format in Windows. If we want to see and use them in Windows operating system, we need to change the line endings to Windows. we can do this easily on Windows by using Notepad++ program, using Edit/EOF Conversion Menu (Click the Windows submenu there). 
 - Compile our codes using :  
 `>g++ DrawShp.cpp -o PA4`
